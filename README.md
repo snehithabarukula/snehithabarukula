@@ -22,11 +22,6 @@
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
-### Git Stats 
-   <a href= "https://github-readme-stats.vercel.app/api?username={snehithabarukula}&theme=blue-green")></a>
-
-
-
 ### Contact Me On
 <p align="center">
 	<a href="https://github.com/snehithabarukula"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
