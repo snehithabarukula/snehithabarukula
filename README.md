@@ -1,8 +1,14 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="git.gif" width="400" height="400" align="center">
+
+<p align="center">
+<img src="git.gif" width="400" height="400">
+</p>
 
 ### About Me 👩‍💻
-
+- 📚 Currently I'm an Undergraduate from SRM University AP 
+- 👩‍🎓 I finieshed my semester abroad program from University of California Davis
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love to paint and I enjoy playing badminton 
 
 ### 🧰 Languages and Tools
 
