@@ -23,7 +23,7 @@
   ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
 ### Git Stats 
-   ![gitstats](https://github-readme-stats.vercel.app/api?username={snehithabarukula}&theme=blue-green)
+   <a href= "https://github-readme-stats.vercel.app/api?username={snehithabarukula}&theme=blue-green")></a>
 
 
 
