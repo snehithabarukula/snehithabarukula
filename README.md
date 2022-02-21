@@ -6,7 +6,7 @@
 
 ### About Me 👩‍💻
 - 📚 Currently I'm an Undergraduate from SRM University AP 
-- 👩‍🎓 I finieshed my semester abroad program from University of California Davis
+- 👩‍🎓 I finished my semester abroad program from University of California Davis
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to paint and I enjoy playing badminton 
 
