@@ -1,4 +1,4 @@
-## Hi there! I am Snehitha Barukula  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! I'm Snehitha Barukula  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
 <img src="git.gif" width="400" height="400">
