@@ -5,7 +5,8 @@
 </p>
 
 ### About Me 👩‍💻
-- 📚 Currently I'm an Undergraduate from SRM University AP 
+- 📚 Currently I'm an application engineer at IDFC FIRST BANK 
+- 👩‍🎓 Graduated from SRM University AP, class of 2018
 - 👩‍🎓 I finished my semester abroad program from University of California Davis
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to paint and I enjoy playing badminton 
