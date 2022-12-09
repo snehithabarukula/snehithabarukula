@@ -4,9 +4,11 @@
 <img src="git.gif" width="400" height="400">
 </p>
 
-### About Me 👩‍💻
+### My Portfolio 👩‍
 <p><a href="https://snehithabarukula.my.canva.site"><img alt="My portfolio" width="10%" style="padding:5px"
-<img src="https://github.com/snehithabarukula/snehithabarukula/blob/main/icons8-circled-user-female-skin-type-5-64.png"> </a></p>				
+<img src="https://github.com/snehithabarukula/snehithabarukula/blob/main/icons8-circled-user-female-skin-type-5-64.png"> </a></p>
+
+### My Portfolio 👩‍💻
 - 📚 Currently I'm an application engineer at IDFC FIRST BANK 
 - 👩‍🎓 Graduated from SRM University AP, class of 2018
 - 👩‍🎓 I finished my semester abroad program from University of California Davis
