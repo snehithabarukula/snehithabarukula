@@ -5,6 +5,7 @@
 </p>
 
 ### About Me 👩‍💻
+![My Portfolio](https://snehithabarukula.my.canva.site)
 - 📚 Currently I'm an application engineer at IDFC FIRST BANK 
 - 👩‍🎓 Graduated from SRM University AP, class of 2018
 - 👩‍🎓 I finished my semester abroad program from University of California Davis
