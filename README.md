@@ -5,6 +5,8 @@
 </p>
 
 ### About Me 👩‍💻
+<a href="https://snehithabarukula.my.canva.site"><img alt="My portfolio" width="10%" style="padding:5px"
+<img src="https://github.com/snehithabarukula/snehithabarukula/blob/main/icons8-circled-user-female-skin-type-5-64.png"> </a>					
 - 📚 Currently I'm an application engineer at IDFC FIRST BANK 
 - 👩‍🎓 Graduated from SRM University AP, class of 2018
 - 👩‍🎓 I finished my semester abroad program from University of California Davis
@@ -28,7 +30,6 @@
 	<a href="https://github.com/snehithabarukula"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/snehithabarukula/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/pinot_palette/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://snehithabarukula.my.canva.site"><img alt="My portfolio" width="10%" style="padding:5px"
-<img src="https://github.com/snehithabarukula/snehithabarukula/blob/main/icons8-circled-user-female-skin-type-5-64.png"> </a>							      
+			      
 </p>
 
