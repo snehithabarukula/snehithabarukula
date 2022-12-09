@@ -28,6 +28,7 @@
 	<a href="https://github.com/snehithabarukula"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/snehithabarukula/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/pinot_palette/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://snehithabarukula.my.canva.site"><img alt="instagram" width="10%" style="padding:5px"							     
+	<a href="https://snehithabarukula.my.canva.site"><img alt="My portfolio" width="10%" style="padding:5px"
+src="https://img.icons8.com/clouds/100/000000/canva.png"/></a>							      
 </p>
 
